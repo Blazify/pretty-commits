@@ -1,0 +1,13 @@
+{
+  "name": "@blazify/pretty-commits",
+  "version": "1.0.0",
+  "main": "bin/index.js",
+  "bin": "bin/index.js",
+  "repository": "git@github.com:BlazifyOrg/pretty-commits.git",
+  "author": "RoMeAh <romeah@blazify.rocks>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^16.4.10",
+    "typescript": "^4.3.5"
+  }
+}
