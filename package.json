@@ -6,8 +6,13 @@
   "repository": "git@github.com:BlazifyOrg/pretty-commits.git",
   "author": "RoMeAh <romeah@blazify.rocks>",
   "license": "MIT",
+  "private": false,
   "devDependencies": {
+    "@types/inquirer": "^7.3.3",
     "@types/node": "^16.4.10",
     "typescript": "^4.3.5"
+  },
+  "dependencies": {
+    "inquirer": "^8.1.2"
   }
 }
